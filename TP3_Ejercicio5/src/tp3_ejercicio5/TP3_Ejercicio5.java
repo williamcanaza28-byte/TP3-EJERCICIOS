@@ -18,7 +18,7 @@ public class TP3_Ejercicio5 {
             }
         } while (A >= B);
         // Mostrar números pares entre A y B
-        System.out.println("Números pares entre " + A + " y " + B + ":");
+        System.out.println("Numeros pares entre " + A + " y " + B + ":");
         for (int i = A; i <= B; i++) {
             if (i % 2 == 0) {
                 System.out.println(i);
