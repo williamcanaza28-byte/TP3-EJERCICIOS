@@ -6,11 +6,10 @@ public class TP3_Ejercicio1 {
         do {
             System.out.println(i);
             i++;
-        } while (i <=10 );
+        } while (i <=100 );
     }
 }
 
-/*
 package tp3_ejercicio1;
 public class TP3_Ejercicio1 {   
     public static void main(String[] args) {
