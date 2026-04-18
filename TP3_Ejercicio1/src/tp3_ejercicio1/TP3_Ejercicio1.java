@@ -1,6 +1,6 @@
 package tp3_ejercicio1;
 public class TP3_Ejercicio1 {
-    //Version do-while
+    //Version con do-while
     public static void main(String[] args) {
         int i = 1;
 
@@ -11,7 +11,7 @@ public class TP3_Ejercicio1 {
     }
 }
 /*
-    //Version while
+    //Version con while
     public static void main(String[] args) {
         int i = 1;
 
@@ -21,7 +21,7 @@ public class TP3_Ejercicio1 {
         }
     }
 } 
-    //Version for
+    //Version con for
     public static void main(String[] args) {
        
         for (int i = 1; i <= 100; i++) {
